@@ -1,0 +1,20 @@
+/* #btn
+{
+  background-color: pink;
+} */
+body
+{
+  height: 1000px;
+  width: 10000px;
+}
+.btnStyle
+{
+  background-color: blue;
+  color: white;
+  
+
+}
+.green {
+  background-color: green;
+  color: white;
+}
